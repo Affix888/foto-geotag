@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Foto Geotag</string>
+    <string name="preview">Pratinjau foto</string>
+    <string name="placeholder">Ambil foto dengan Kamera\natau pilih dari Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+
+    <string name="section_location">Lokasi</string>
+    <string name="hint_title">Judul lokasi (baris besar)</string>
+    <string name="hint_address">Alamat lengkap</string>
+    <string name="hint_lat">Latitude</string>
+    <string name="hint_lng">Longitude</string>
+    <string name="use_gps">Lokasi saya</string>
+    <string name="refresh_address">Cari alamat</string>
+    <string name="show_map">Tampilkan peta satelit</string>
+
+    <string name="section_date">Tanggal &amp; waktu</string>
+    <string name="hint_date">Tanggal (ketuk untuk ubah)</string>
+    <string name="hint_time">Jam (ketuk untuk ubah)</string>
+    <string name="hint_tz">Zona waktu</string>
+    <string name="now">Sekarang</string>
+
+    <string name="save">Simpan</string>
+    <string name="share">Bagikan</string>
+
+    <string name="saved">Foto tersimpan di galeri (Pictures/%1$s)</string>
+    <string name="save_failed">Gagal menyimpan foto</string>
+    <string name="no_photo">Pilih atau ambil foto dulu</string>
+    <string name="no_camera">Aplikasi kamera tidak ditemukan</string>
+    <string name="load_failed">Foto tidak bisa dibuka</string>
+    <string name="location_denied">Izin lokasi ditolak. Isi koordinat secara manual.</string>
+    <string name="storage_denied">Izin penyimpanan ditolak</string>
+    <string name="gps_off">GPS mati. Nyalakan lokasi atau isi koordinat manual.</string>
+    <string name="finding_location">Mencari lokasi…</string>
+    <string name="location_not_found">Lokasi tidak ditemukan. Isi koordinat manual.</string>
+    <string name="location_accuracy">Lokasi didapat (akurasi ±%1$d m)</string>
+    <string name="loc_from_photo">Lokasi diambil dari data foto</string>
+    <string name="finding_address">Mencari alamat…</string>
+    <string name="address_failed">Alamat tidak ditemukan (cek internet). Isi alamat manual.</string>
+    <string name="map_failed">Peta gagal dimuat (cek internet)</string>
+    <string name="invalid_coords">Latitude/Longitude tidak valid</string>
+</resources>
